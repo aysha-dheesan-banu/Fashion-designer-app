@@ -1,0 +1,7 @@
+__pycache__
+venv/
+.env
+crewai_env
+.chainlit
+.files
+chainlit.md
